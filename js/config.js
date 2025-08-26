@@ -13,7 +13,7 @@
 // !! هام جداً !!
 // الصق هنا رابط تطبيق الويب الذي حصلت عليه من Google Apps Script.
 // هذا الرابط يستخدم لإرسال نتائج الاختبار إلى ورقة جوجل شيت الخاصة بك.
-export const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxK9_AUfkM2--f-hGtwr1D4IuWbllAb2Q3Ucoaekrup-DeJwlhkHwkqiludAPNyyhcm/exec";
+export const SCRIPT_URL = "https://script.google.com/macros/s/AKfycby5G84N7K4VQGrfbWhN9WPsDFijEeAvw9XLADrx5NrOmgyKbk-ytIdjepwMJjmyPVzkxQ/exec";
 
 // عنوان URL الأساسي لواجهة برمجة تطبيقات القرآن الكريم.
 // إذا تغيرت الواجهة في المستقبل، يمكنك تعديلها من هنا فقط.
@@ -24,4 +24,5 @@ export const DEFAULT_SETTINGS = {
     questionsCount: 10,       // العدد الافتراضي للأسئلة
     qari: 'ar.alafasy'        // القارئ الافتراضي
 };
+
 
